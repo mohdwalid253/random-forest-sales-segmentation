@@ -121,7 +121,7 @@ The model performs exceptionally well on **clearly defined sales segments**.
 ![Top 10 Important Features](images/feature_importance.png)
 
 ### 🔑 Key Observations
-1. **Price** is the most influential feature  h
+1. **Price** is the most influential feature  
 
    - Higher price strongly reduces sales probability
 

@@ -13,7 +13,6 @@ The project focuses on **exploratory data analysis, target engineering, and feat
 - [🎯 Target Variable Engineering](#target-variable-engineering)
 - [🌲 Model Building](#model-building)
 - [📈 Model Evaluation](#model-evaluation)
-- [⭐ Feature Importance Analysis](#feature-importance-analysis)
 - [🧠 Insights from Feature Importance](#-insights-from-feature-importance)
 - [📊 Business Insights & Interpretation](#business-insights--interpretation)
 - [✅ Conclusion](#conclusion)
@@ -95,7 +94,7 @@ This step significantly improved model performance and interpretability.
 
 - Algorithm used: **Random Forest Classifier**
 - Target variable: `Sales Category (High / Low)`
-- Data split: **70% training / 30% testing**
+- Data split: **80% training / 20% testing**
 - Categorical features encoded using **One-Hot Encoding**
 
 Random Forest was chosen because:
@@ -117,19 +116,12 @@ The model performs exceptionally well on **clearly defined sales segments**.
 
 ---
 
-## ⭐ Feature Importance Analysis
-
-![Top 10 Important Features](images/feature_importance.png)
-
-### 📌 Why the Y-axis is inverted in the plot
-The Y-axis is inverted so that **the most important features appear at the top** of the chart instead of the bottom.  
-This improves **readability and interpretation**, allowing decision-makers to immediately focus on the strongest drivers.
-
----
-
 ## 🧠 Insights from Feature Importance
 
 ### 🔑 Key Observations
+
+![Top 10 Important Features](images/feature_importance.png)
+
 1. **Price** is the most influential feature  
    - Higher price strongly reduces sales probability
 

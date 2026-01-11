@@ -117,11 +117,12 @@ The model performs exceptionally well on **clearly defined sales segments**.
 ---
 
 ## 🧠 Insights from Feature Importance
-
-![Top 10 Important Features](images/feature_importance.png)
-
-**Figure:** Top 10 important features identified by the Random Forest model based on feature importance scores.
-
+<p align="center">
+  <img src="images/feature_importance.png" width="700">
+</p>
+<p align="center"><b>
+Top 10 important features influencing sales as identified by the Random Forest model.
+</b></p>
 
 ### 🔑 Key Observations
 1. **Price** is the most influential feature  

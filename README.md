@@ -118,11 +118,11 @@ The model performs exceptionally well on **clearly defined sales segments**.
 
 ## 🧠 Insights from Feature Importance
 
-### 🔑 Key Observations
-
 ![Top 10 Important Features](images/feature_importance.png)
 
-1. **Price** is the most influential feature  
+### 🔑 Key Observations
+1. **Price** is the most influential feature  h
+
    - Higher price strongly reduces sales probability
 
 2. **Good Shelf Location** has a major positive impact  
